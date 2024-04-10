@@ -26,7 +26,6 @@
     "work": [{
       "name": "PetFood",
       "position": "Administrative Intern",
-      "url": "#home",
       "startDate": "2023-05",
       "endDate": "2023-08",
       "summary": "I developed a system that allows recording and monitoring effectively the entry and exit of employees, visitors, suppliers and drivers at the facilities, with the respective data of each person and vehicle.",
