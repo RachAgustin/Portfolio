@@ -1,0 +1,159 @@
+{
+    "basics": {
+      "name": "Agustín Rach",
+      "label": "Programming Technician, Web Developer",
+      "image": "/yo-cuadrado.webp",
+      "email": "rachhdeveloper@gmail.com",
+      "phone": "",
+      "url": "x",
+      "summary": "I am looking for significant work experience While I continue my studies, searching. balance and enhance both areas to Build a solid foundation in my career.",
+      "location": {
+        "address": ".",
+        "postalCode": "7260",
+        "city": "Saladillo",
+        "countryCode": "ARG",
+        "region": "Argentina"
+      },
+      "profiles": [
+      {
+        "network": "Discord",
+        "username": "rach.dev",
+        "url": "https://discord.gg/3cmXSBCQQV"
+      }
+    ]
+    },
+
+    "work": [{
+      "name": "PetFood",
+      "position": "Administrative Intern",
+      "url": "/",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "I developed a system that allows recording and monitoring effectively the entry and exit of employees, visitors, suppliers and drivers at the facilities, with the respective data of each person and vehicle.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+  
+    {
+      "name": "ArtixWorld",
+      "position": "Web Developer",
+      "url": "https://artix.world/",
+      "startDate": "2024-02",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+
+    "education": [{
+      "institution": "EESTN1",
+      "url": "https://www.tecnica1saladillo.edu.ar/",
+      "area": "programming technician",
+      "studyType": "technical",
+      "startDate": "2017",
+      "endDate": "2023",
+      "score": "",
+      "courses": [
+        "programming technician"
+      ]
+    }],
+
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+
+    "skills": [{
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "astro"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Tailwind"
+    },
+    {
+      "name": "GitHub"
+    }
+  ],
+
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+
+    "projects": [
+      {
+        "name": "ArtixWorld",
+        "isActive": true,
+        "description": "I developed a website for a graphic design company, merging its visual identity with functionality and creativity.",
+        "highlights": [
+          ""
+        ],
+        "url": "https://artix.world/"
+      }
+    ]
+  }
+  
